@@ -1,0 +1,6 @@
+What is the weather in London today?
+How do I reverse a list in Python?
+Can you help me write a cover letter for a software engineer role?
+Summarize this article in 3 bullet points.
+Translate "Good morning" to French.
+What are the best practices for REST API design?
